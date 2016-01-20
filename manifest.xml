@@ -10,8 +10,8 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="GifMe"/>
   <Description DefaultValue="Be expressive... in short, silent, looped videos."/>
-  <HighResolutionIconUrl DefaultValue="https://localhost:8443/images/logo-80.png"/>
-  <SupportUrl DefaultValue="https://localhost:8443/support.html"/>
+  <HighResolutionIconUrl DefaultValue="https://martellaj-hosting.github.io/Outlook-Add-in-GifMe/images/logo-80.png"/>
+  <SupportUrl DefaultValue="https://martellaj-hosting.github.io/Outlook-Add-in-GifMe/support.html"/>
   <Hosts>
     <Host Name="Mailbox"/>
   </Hosts>
@@ -23,7 +23,7 @@
   <FormSettings>
     <Form xsi:type="ItemEdit">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://localhost:8443/appcompose/home/home.html"/>
+        <SourceLocation DefaultValue="https://martellaj-hosting.github.io/Outlook-Add-in-GifMe/appcompose/home/home.html"/>
       </DesktopSettings>
     </Form>
   </FormSettings>
@@ -70,12 +70,12 @@
     </Hosts>
     <Resources>
       <bt:Images>
-        <bt:Image id="icon-16" DefaultValue="https://localhost:8443/images/logo-16.png" />
-        <bt:Image id="icon-32" DefaultValue="https://localhost:8443/images/logo-32.png" />
-        <bt:Image id="icon-80" DefaultValue="https://localhost:8443/images/logo-80.png" />
+        <bt:Image id="icon-16" DefaultValue="https://martellaj-hosting.github.io/Outlook-Add-in-GifMe/images/logo-16.png" />
+        <bt:Image id="icon-32" DefaultValue="https://martellaj-hosting.github.io/Outlook-Add-in-GifMe/images/logo-32.png" />
+        <bt:Image id="icon-80" DefaultValue="https://martellaj-hosting.github.io/Outlook-Add-in-GifMe/images/logo-80.png" />
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="homeUrl" DefaultValue="https://localhost:8443/appcompose/home/home.html"></bt:Url>
+        <bt:Url id="homeUrl" DefaultValue="https://martellaj-hosting.github.io/Outlook-Add-in-GifMe/appcompose/home/home.html"></bt:Url>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="groupLabel" DefaultValue="GifMe" />
